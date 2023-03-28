@@ -1,0 +1,81 @@
+C:\Users\ASUS\Desktop\UI app ltm\UI app ltm\bin\Debug\net6.0-windows\UI app ltm.exe
+C:\Users\ASUS\Desktop\UI app ltm\UI app ltm\bin\Debug\net6.0-windows\Guna.UI2.dll
+C:\Users\ASUS\Desktop\UI app ltm\UI app ltm\bin\Debug\net6.0-windows\System.Management.dll
+C:\Users\ASUS\Desktop\UI app ltm\UI app ltm\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+C:\Users\ASUS\Desktop\UI app ltm\UI app ltm\obj\Debug\net6.0-windows\UI app ltm.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\UI app ltm\UI app ltm\obj\Debug\net6.0-windows\UI_app_ltm.Login.resources
+C:\Users\ASUS\Desktop\UI app ltm\UI app ltm\obj\Debug\net6.0-windows\UI_app_ltm.Form2.resources
+C:\Users\ASUS\Desktop\UI app ltm\UI app ltm\obj\Debug\net6.0-windows\UI_app_ltm.Form3.resources
+C:\Users\ASUS\Desktop\UI app ltm\UI app ltm\obj\Debug\net6.0-windows\UI_app_ltm.Form_Register.resources
+C:\Users\ASUS\Desktop\UI app ltm\UI app ltm\obj\Debug\net6.0-windows\UI_app_ltm.Properties.Resources.resources
+C:\Users\ASUS\Desktop\UI app ltm\UI app ltm\obj\Debug\net6.0-windows\UI app ltm.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\UI app ltm\UI app ltm\obj\Debug\net6.0-windows\UI app ltm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\UI app ltm\UI app ltm\obj\Debug\net6.0-windows\UI app ltm.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\UI app ltm\UI app ltm\obj\Debug\net6.0-windows\UI app ltm.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\UI app ltm\UI app ltm\obj\Debug\net6.0-windows\UI app ltm.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\UI app ltm\UI app ltm\obj\Debug\net6.0-windows\UI app ltm.csproj.CopyComplete
+C:\Users\ASUS\Desktop\UI app ltm\UI app ltm\obj\Debug\net6.0-windows\UI app ltm.dll
+C:\Users\ASUS\Desktop\UI app ltm\UI app ltm\obj\Debug\net6.0-windows\refint\UI app ltm.dll
+C:\Users\ASUS\Desktop\UI app ltm\UI app ltm\obj\Debug\net6.0-windows\UI app ltm.pdb
+C:\Users\ASUS\Desktop\UI app ltm\UI app ltm\bin\Debug\net6.0-windows\UI app ltm.deps.json
+C:\Users\ASUS\Desktop\UI app ltm\UI app ltm\bin\Debug\net6.0-windows\UI app ltm.runtimeconfig.json
+C:\Users\ASUS\Desktop\UI app ltm\UI app ltm\bin\Debug\net6.0-windows\UI app ltm.dll
+C:\Users\ASUS\Desktop\UI app ltm\UI app ltm\bin\Debug\net6.0-windows\UI app ltm.pdb
+C:\Users\ASUS\Desktop\UI app ltm\UI app ltm\obj\Debug\net6.0-windows\UI app ltm.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\UI app ltm\UI app ltm\obj\Debug\net6.0-windows\ref\UI app ltm.dll
+C:\Users\ASUS\Desktop\UI app ltm\UI app ltm\obj\Debug\net6.0-windows\UI_app_ltm.Form_Home.resources
+C:\Users\ASUS\Desktop\UI app ltm\UI app ltm\obj\Debug\net6.0-windows\UI_app_ltm.Form_Adopt.resources
+C:\Users\ASUS\Desktop\UI app ltm\UI app ltm\obj\Debug\net6.0-windows\UI_app_ltm.Form_Find.resources
+C:\Users\ASUS\Desktop\UI app ltm\UI app ltm\obj\Debug\net6.0-windows\UI_app_ltm.Form_Post.resources
+C:\Users\ASUS\Desktop\UI app ltm\UI app ltm\obj\Debug\net6.0-windows\UI_app_ltm.Form_Notify.resources
+C:\Users\ASUS\Desktop\UI app ltm\UI app ltm\obj\Debug\net6.0-windows\UI_app_ltm.Form_Info.resources
+C:\Users\ASUS\Desktop\Đồ án LTM\UI app ltm\UI app ltm\bin\Debug\net6.0-windows\UI app ltm.exe
+C:\Users\ASUS\Desktop\Đồ án LTM\UI app ltm\UI app ltm\bin\Debug\net6.0-windows\UI app ltm.deps.json
+C:\Users\ASUS\Desktop\Đồ án LTM\UI app ltm\UI app ltm\bin\Debug\net6.0-windows\UI app ltm.runtimeconfig.json
+C:\Users\ASUS\Desktop\Đồ án LTM\UI app ltm\UI app ltm\bin\Debug\net6.0-windows\UI app ltm.dll
+C:\Users\ASUS\Desktop\Đồ án LTM\UI app ltm\UI app ltm\bin\Debug\net6.0-windows\UI app ltm.pdb
+C:\Users\ASUS\Desktop\Đồ án LTM\UI app ltm\UI app ltm\bin\Debug\net6.0-windows\Guna.UI2.dll
+C:\Users\ASUS\Desktop\Đồ án LTM\UI app ltm\UI app ltm\bin\Debug\net6.0-windows\System.Management.dll
+C:\Users\ASUS\Desktop\Đồ án LTM\UI app ltm\UI app ltm\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+C:\Users\ASUS\Desktop\Đồ án LTM\UI app ltm\UI app ltm\obj\Debug\net6.0-windows\UI app ltm.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Đồ án LTM\UI app ltm\UI app ltm\obj\Debug\net6.0-windows\UI_app_ltm.Login.resources
+C:\Users\ASUS\Desktop\Đồ án LTM\UI app ltm\UI app ltm\obj\Debug\net6.0-windows\UI_app_ltm.Form2.resources
+C:\Users\ASUS\Desktop\Đồ án LTM\UI app ltm\UI app ltm\obj\Debug\net6.0-windows\UI_app_ltm.Form3.resources
+C:\Users\ASUS\Desktop\Đồ án LTM\UI app ltm\UI app ltm\obj\Debug\net6.0-windows\UI_app_ltm.Form_Register.resources
+C:\Users\ASUS\Desktop\Đồ án LTM\UI app ltm\UI app ltm\obj\Debug\net6.0-windows\UI_app_ltm.Properties.Resources.resources
+C:\Users\ASUS\Desktop\Đồ án LTM\UI app ltm\UI app ltm\obj\Debug\net6.0-windows\UI app ltm.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\Đồ án LTM\UI app ltm\UI app ltm\obj\Debug\net6.0-windows\UI app ltm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\Đồ án LTM\UI app ltm\UI app ltm\obj\Debug\net6.0-windows\UI app ltm.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Đồ án LTM\UI app ltm\UI app ltm\obj\Debug\net6.0-windows\UI app ltm.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Đồ án LTM\UI app ltm\UI app ltm\obj\Debug\net6.0-windows\UI app ltm.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Đồ án LTM\UI app ltm\UI app ltm\obj\Debug\net6.0-windows\UI app ltm.csproj.CopyComplete
+C:\Users\ASUS\Desktop\Đồ án LTM\UI app ltm\UI app ltm\obj\Debug\net6.0-windows\UI app ltm.dll
+C:\Users\ASUS\Desktop\Đồ án LTM\UI app ltm\UI app ltm\obj\Debug\net6.0-windows\refint\UI app ltm.dll
+C:\Users\ASUS\Desktop\Đồ án LTM\UI app ltm\UI app ltm\obj\Debug\net6.0-windows\UI app ltm.pdb
+C:\Users\ASUS\Desktop\Đồ án LTM\UI app ltm\UI app ltm\obj\Debug\net6.0-windows\UI app ltm.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\Đồ án LTM\UI app ltm\UI app ltm\obj\Debug\net6.0-windows\ref\UI app ltm.dll
+C:\Users\ASUS\Desktop\Nhóm 7 Thiết kế UI\UI app ltm\UI app ltm\bin\Debug\net6.0-windows\UI app ltm.exe
+C:\Users\ASUS\Desktop\Nhóm 7 Thiết kế UI\UI app ltm\UI app ltm\bin\Debug\net6.0-windows\UI app ltm.deps.json
+C:\Users\ASUS\Desktop\Nhóm 7 Thiết kế UI\UI app ltm\UI app ltm\bin\Debug\net6.0-windows\UI app ltm.runtimeconfig.json
+C:\Users\ASUS\Desktop\Nhóm 7 Thiết kế UI\UI app ltm\UI app ltm\bin\Debug\net6.0-windows\UI app ltm.dll
+C:\Users\ASUS\Desktop\Nhóm 7 Thiết kế UI\UI app ltm\UI app ltm\bin\Debug\net6.0-windows\UI app ltm.pdb
+C:\Users\ASUS\Desktop\Nhóm 7 Thiết kế UI\UI app ltm\UI app ltm\bin\Debug\net6.0-windows\Guna.UI2.dll
+C:\Users\ASUS\Desktop\Nhóm 7 Thiết kế UI\UI app ltm\UI app ltm\bin\Debug\net6.0-windows\System.Management.dll
+C:\Users\ASUS\Desktop\Nhóm 7 Thiết kế UI\UI app ltm\UI app ltm\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+C:\Users\ASUS\Desktop\Nhóm 7 Thiết kế UI\UI app ltm\UI app ltm\obj\Debug\net6.0-windows\UI app ltm.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Nhóm 7 Thiết kế UI\UI app ltm\UI app ltm\obj\Debug\net6.0-windows\UI_app_ltm.Login.resources
+C:\Users\ASUS\Desktop\Nhóm 7 Thiết kế UI\UI app ltm\UI app ltm\obj\Debug\net6.0-windows\UI_app_ltm.Form2.resources
+C:\Users\ASUS\Desktop\Nhóm 7 Thiết kế UI\UI app ltm\UI app ltm\obj\Debug\net6.0-windows\UI_app_ltm.Form3.resources
+C:\Users\ASUS\Desktop\Nhóm 7 Thiết kế UI\UI app ltm\UI app ltm\obj\Debug\net6.0-windows\UI_app_ltm.Form_Register.resources
+C:\Users\ASUS\Desktop\Nhóm 7 Thiết kế UI\UI app ltm\UI app ltm\obj\Debug\net6.0-windows\UI_app_ltm.Properties.Resources.resources
+C:\Users\ASUS\Desktop\Nhóm 7 Thiết kế UI\UI app ltm\UI app ltm\obj\Debug\net6.0-windows\UI app ltm.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\Nhóm 7 Thiết kế UI\UI app ltm\UI app ltm\obj\Debug\net6.0-windows\UI app ltm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\Nhóm 7 Thiết kế UI\UI app ltm\UI app ltm\obj\Debug\net6.0-windows\UI app ltm.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Nhóm 7 Thiết kế UI\UI app ltm\UI app ltm\obj\Debug\net6.0-windows\UI app ltm.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Nhóm 7 Thiết kế UI\UI app ltm\UI app ltm\obj\Debug\net6.0-windows\UI app ltm.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Nhóm 7 Thiết kế UI\UI app ltm\UI app ltm\obj\Debug\net6.0-windows\UI app ltm.csproj.CopyComplete
+C:\Users\ASUS\Desktop\Nhóm 7 Thiết kế UI\UI app ltm\UI app ltm\obj\Debug\net6.0-windows\UI app ltm.dll
+C:\Users\ASUS\Desktop\Nhóm 7 Thiết kế UI\UI app ltm\UI app ltm\obj\Debug\net6.0-windows\refint\UI app ltm.dll
+C:\Users\ASUS\Desktop\Nhóm 7 Thiết kế UI\UI app ltm\UI app ltm\obj\Debug\net6.0-windows\UI app ltm.pdb
+C:\Users\ASUS\Desktop\Nhóm 7 Thiết kế UI\UI app ltm\UI app ltm\obj\Debug\net6.0-windows\UI app ltm.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\Nhóm 7 Thiết kế UI\UI app ltm\UI app ltm\obj\Debug\net6.0-windows\ref\UI app ltm.dll

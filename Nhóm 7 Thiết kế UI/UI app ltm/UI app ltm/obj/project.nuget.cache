@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "DalJfkJL/wcxYaJuTstL//SmvQDXR6++AgV4FRlGgSIe8C4+YJ7i2J9FR4o3ybsl71uNz8v3vuv0T9MAQv/iQQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ASUS\\Desktop\\Nhóm 7 Thiết kế UI\\UI app ltm\\UI app ltm\\UI app ltm.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASUS\\.nuget\\packages\\guna.ui2.winforms\\2.0.4.4\\guna.ui2.winforms.2.0.4.4.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\system.codedom\\6.0.0\\system.codedom.6.0.0.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\system.management\\6.0.0\\system.management.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
