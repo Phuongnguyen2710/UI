@@ -1,0 +1,17 @@
+C:\Users\ASUS\Desktop\Demo\Demo\bin\Debug\net6.0-windows\Demo.exe
+C:\Users\ASUS\Desktop\Demo\Demo\bin\Debug\net6.0-windows\Demo.deps.json
+C:\Users\ASUS\Desktop\Demo\Demo\bin\Debug\net6.0-windows\Demo.runtimeconfig.json
+C:\Users\ASUS\Desktop\Demo\Demo\bin\Debug\net6.0-windows\Demo.dll
+C:\Users\ASUS\Desktop\Demo\Demo\bin\Debug\net6.0-windows\Demo.pdb
+C:\Users\ASUS\Desktop\Demo\Demo\obj\Debug\net6.0-windows\Demo.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Demo\Demo\obj\Debug\net6.0-windows\Demo.Form1.resources
+C:\Users\ASUS\Desktop\Demo\Demo\obj\Debug\net6.0-windows\Demo.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\Demo\Demo\obj\Debug\net6.0-windows\Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\Demo\Demo\obj\Debug\net6.0-windows\Demo.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Demo\Demo\obj\Debug\net6.0-windows\Demo.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Demo\Demo\obj\Debug\net6.0-windows\Demo.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Demo\Demo\obj\Debug\net6.0-windows\Demo.dll
+C:\Users\ASUS\Desktop\Demo\Demo\obj\Debug\net6.0-windows\refint\Demo.dll
+C:\Users\ASUS\Desktop\Demo\Demo\obj\Debug\net6.0-windows\Demo.pdb
+C:\Users\ASUS\Desktop\Demo\Demo\obj\Debug\net6.0-windows\Demo.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\Demo\Demo\obj\Debug\net6.0-windows\ref\Demo.dll
